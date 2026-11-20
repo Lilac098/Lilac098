@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lilac
 - 👀 I’m interested in Litterature and video games
 - 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... getting a life
 - 📫 How to reach me ... you can't
 
 <!---
